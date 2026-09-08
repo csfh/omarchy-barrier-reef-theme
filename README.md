@@ -41,8 +41,6 @@ Desktop, terminal, editor, launcher, notification, bar, lock screen, browser, Di
 
 The wallpapers are photographs on [Unsplash](https://unsplash.com), used under the [Unsplash License](https://unsplash.com/license):
 
-- [`blue-shoal`](backgrounds/blue-shoal.jpg) by [Kristin Hoel](https://unsplash.com/photos/a-large-group-of-fish-swimming-over-a-coral-reef-kvfCLiTzrw0)
-- [`fan-coral`](backgrounds/fan-coral.jpg) by [Pascal van de Vendel](https://unsplash.com/photos/a-coral-reef-with-fish-wPdbmBwyuEI)
 - [`violet-garden`](backgrounds/violet-garden.jpg) by [Giulia Salvaterra](https://unsplash.com/photos/a-fish-swimming-in-an-aquarium-EW9z19sPiZc)
 - [`reef-canopy`](backgrounds/reef-canopy.jpg) by [NEOM](https://unsplash.com/@neom) ([photo](https://unsplash.com/photos/an-underwater-view-of-a-colorful-coral-reef-HYHYGLs-Rp8))
 - [`clown-anemone`](backgrounds/clown-anemone.jpg) by [Giorgia Doglioni](https://unsplash.com/photos/clown-fish-on-coral-reef-vZsg8M_lZNY)
