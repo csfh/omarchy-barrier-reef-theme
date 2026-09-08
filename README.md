@@ -43,7 +43,6 @@ The wallpapers are photographs on [Unsplash](https://unsplash.com), used under t
 
 - [`violet-garden`](backgrounds/violet-garden.jpg) by [Giulia Salvaterra](https://unsplash.com/photos/a-fish-swimming-in-an-aquarium-EW9z19sPiZc)
 - [`reef-canopy`](backgrounds/reef-canopy.jpg) by [NEOM](https://unsplash.com/@neom) ([photo](https://unsplash.com/photos/an-underwater-view-of-a-colorful-coral-reef-HYHYGLs-Rp8))
-- [`clown-anemone`](backgrounds/clown-anemone.jpg) by [Giorgia Doglioni](https://unsplash.com/photos/clown-fish-on-coral-reef-vZsg8M_lZNY)
 
 ## License
 
