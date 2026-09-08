@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="barrier-reef-banner.png" alt="Barrier Reef banner" width="100%">
+  <img src="barrier-reef-banner.jpg" alt="Barrier Reef banner" width="100%">
 </p>
 
 # Omarchy Barrier Reef Theme
